@@ -1,6 +1,4 @@
-//TC- O(k log k)
-// There are 2 methods:- categorize by Sorting the keys and --> it takes extra Space
-// categorize by Frequency --> more Optimal
+
 
 class Solution {
     private String getFrequencyString(String str){
